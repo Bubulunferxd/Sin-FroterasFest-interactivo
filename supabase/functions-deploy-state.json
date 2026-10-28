@@ -1,0 +1,9 @@
+{
+  "projectId": "72003908",
+  "functions": {
+    "binance-webhook": {
+      "hasChanged": false,
+      "hash": "0465e77e019e730be2c158a3d879015be8480a907bd527fb3a9b30c7f622b203"
+    }
+  }
+}
